@@ -1,0 +1,15 @@
+D:\Учёба\Homework5\Homework5\Task34\bin\Debug\net6.0\Task34.exe
+D:\Учёба\Homework5\Homework5\Task34\bin\Debug\net6.0\Task34.deps.json
+D:\Учёба\Homework5\Homework5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+D:\Учёба\Homework5\Homework5\Task34\bin\Debug\net6.0\Task34.dll
+D:\Учёба\Homework5\Homework5\Task34\bin\Debug\net6.0\Task34.pdb
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.dll
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\refint\Task34.dll
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.pdb
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+D:\Учёба\Homework5\Homework5\Task34\obj\Debug\net6.0\ref\Task34.dll
